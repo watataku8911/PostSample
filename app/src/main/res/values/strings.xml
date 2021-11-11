@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Postサンプル</string>
+    <string name="tv_name">名前を入力してください。</string>
+    <string name="tv_comment">コメントを入力してください。</string>
+    <string name="bt_send">送信</string>
+    <string name="dlg_title">入力されたもの</string>
+    <string name="dlg_msg_name">名前: </string>
+    <string name="dlg_msg_comment">コメント: </string>
+    <string name="msg_send_before">サーバーにデータを送信します。</string>
+    <string name="msg_send_after">サーバーにデータを送信しました。</string>
+    <string name="msg_parse_before">サーバーからの返信内容の解析を開始します。</string>
+    <string name="msg_parse_after">サーバーからの返信内容の解析が終了しました。</string>
+    <string name="msg_err_send">サーバー通信に失敗しました。もう一度送信を願いします。</string>
+    <string name="msg_err_timeout">サーバー通信がタイムアウトしました。もう一度送信を願いします。</string>
+    <string name="msg_err_parse">サーバーからの返信内容の解析に失敗しました。もう一度送信を願いします。</string>
+</resources>
